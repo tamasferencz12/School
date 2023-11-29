@@ -1,7 +1,28 @@
 Programozas/Gyakorlat/faktorialis/faktorialis/scriptcs_bin/Debug/net7.0/faktorialis
 */.DS_Store
+**/.DS_Store
+**/*.dll
+**/*.pdb
 *.dll
 *.pdb
 Funkcionalis prog./.DS_Store
 Funkcionalis prog./.DS_Store
 Funkcionalis prog./Gyakorlat/.DS_Store
+*.cache
+*.dll
+*.exe
+*.pdb
+/build/
+*.suo
+*.user
+_ReSharper.*/
+*.sdf
+*.opensdf
+*.tlog
+*.log
+TestResult.xml
+*.VisualState.xml
+Version.cs
+Version.h
+Version.cpp
+bin/Debug
