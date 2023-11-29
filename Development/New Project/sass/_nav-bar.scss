@@ -1,0 +1,64 @@
+.nav-bar{
+  z-index: 1;
+  background-color: black;
+  color: white;
+
+  height: 14.2%;
+  width: 100%;
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+
+  &_title{
+    font-size: 2.4rem;
+    width: 9rem;
+    margin: 0;
+    margin-top: 1.2rem;
+    transform:translateX(3rem);
+  }
+
+  &_text{
+    font-size: 0.9rem;
+    width: 6rem;
+    margin: 0;
+    transform:translateX(3.5rem);
+  }
+  &_buttons{
+    display: flex;
+    align-items: center;
+
+    &_button{
+      width: 6rem;
+      border-radius: 20%;
+      font-size: 1.2rem;
+      margin: 0.5rem 0.8rem;
+      color:white;
+      background-color: black;
+      border: none;
+      text-align: center;
+      text-decoration: none;
+      align-items: center;
+
+      @media only screen and (max-width: $bp-medium) {
+        margin-top: 1.2rem;
+      }
+    }
+
+    &_button:hover{
+      background-color: white;
+      color: black;
+      transition: all 0.8s;
+    }    
+  }
+}
+.box_hidden{
+  height: 6.4rem;
+  width: 100%;
+  z-index: 1000;
+}
+
+.responsive-btn{
+  transform: translateX(-2rem);
+  height: 3rem;
+
+}

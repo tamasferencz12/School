@@ -1,0 +1,15 @@
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/bin/Debug/net7.0/negyzetszam
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/bin/Debug/net7.0/negyzetszam.deps.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/bin/Debug/net7.0/negyzetszam.runtimeconfig.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/bin/Debug/net7.0/negyzetszam.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/bin/Debug/net7.0/negyzetszam.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/obj/Debug/net7.0/negyzetszam.csproj.AssemblyReference.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/obj/Debug/net7.0/negyzetszam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/obj/Debug/net7.0/negyzetszam.AssemblyInfoInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/obj/Debug/net7.0/negyzetszam.AssemblyInfo.cs
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/obj/Debug/net7.0/negyzetszam.csproj.CoreCompileInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/obj/Debug/net7.0/negyzetszam.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/obj/Debug/net7.0/refint/negyzetszam.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/obj/Debug/net7.0/negyzetszam.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/obj/Debug/net7.0/negyzetszam.genruntimeconfig.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/negyzetszam/negyzetszam/obj/Debug/net7.0/ref/negyzetszam.dll

@@ -1,0 +1,16 @@
+#define _USE_MATH_DEFINES
+
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+long double PI = 3.141592653589793238462643383279502884197169399375105820974944592307816406286;
+
+int main()
+{
+
+    long double PiSecondPart = 141592653589793238462643383279502884197169399375105820974944592307816406286;
+
+    return 0;
+}

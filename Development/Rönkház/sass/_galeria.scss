@@ -1,0 +1,115 @@
+.galeria{
+    background-image: linear-gradient(to bottom right, #FFC837 , #FF8008 95%);
+    
+    .menu-icon{
+        cursor: pointer;
+        color: black;
+        border: 4px solid black;
+        border-radius: 20%;
+        margin: 4rem;
+        height: 4rem;
+        width: auto;
+        padding: 1rem;
+    }
+}
+    
+
+.galeria-grid {
+    background-image: linear-gradient(to bottom right, #FFC837 , #FF8008 90%);
+    padding-top: 20vh;
+    height: 40rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    justify-content: center;
+    padding-bottom: 2rem;
+
+    @media only screen and (max-width: 1350px){
+        padding-top: 0vh;
+    }
+}
+
+.haz{
+    background-image: linear-gradient(to top left, #FFC837 , #FF8008 90%);
+    height: 15rem;
+    width: 320px;
+    justify-self: center;
+    border: 2px solid black;
+    margin-bottom: 6rem;
+}
+
+.haz__img{
+    width: 320px;
+    height: auto;
+    
+}
+
+.haz-1{
+    animation: MoveInLeft 2s;
+}
+
+.haz-2{
+    animation: MoveInLeft 2s;
+}
+
+.haz-3{
+    animation: MoveInRight 2s;
+}
+
+.haz-4{
+    animation: MoveInLeft 2s;
+}
+
+.haz-5{
+    animation: MoveInRight 2s;
+}
+
+.haz-6{
+    animation: MoveInRight 2s;
+}
+
+.haz-7{
+    animation: MoveInLeft 2s;
+}
+
+.haz-8{
+    animation: MoveInLeft 2s;
+}
+
+.haz-9{
+    animation: MoveInRight 2s;
+}
+
+.haz__name{
+    text-align: center;
+    color: black;
+    font-size: 1.2rem;
+    background-image: linear-gradient(to right, #FFC837 , #FF8008 90%);
+    margin: 0;
+}
+
+.cont-main{
+    display: flex;
+    flex-direction: column;
+}
+
+.cont-1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cont-2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.haz__text{
+    color: black;
+    font-size: 1.3rem;
+}
+
+.btn:hover{
+    color: white;
+    border: 2px solid white;
+    cursor: pointer;
+}

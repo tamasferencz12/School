@@ -1,0 +1,39 @@
+.header{
+    height: 100vh;
+    display: flex;
+
+    background-size: cover;
+    background-position: center;
+
+    object-fit: cover;
+    object-position: bottom;
+    @media only screen and (max-width: 1350px){
+      height: 80vh;
+    }
+
+    .menu-icon{
+      cursor: pointer;
+      color: #FFC837;
+      border: 4px solid #FFC837;
+      border-radius: 20%;
+      margin: 4rem;
+      height: 4rem;
+      width: auto;
+      padding: 1rem;
+    }
+
+  .burger-container{
+    height: 1px;
+    width: 1px;
+  }
+
+  
+}
+
+.header-index{
+  background-image:url(/img/header.jpg);
+}
+
+.header-csapat{
+  background-image:url(/img/image00007.1.jpg);
+}

@@ -1,0 +1,15 @@
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/bin/Debug/net7.0/1a--4
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/bin/Debug/net7.0/1a--4.deps.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/bin/Debug/net7.0/1a--4.runtimeconfig.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/bin/Debug/net7.0/1a--4.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/bin/Debug/net7.0/1a--4.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/obj/Debug/net7.0/1a--4.csproj.AssemblyReference.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/obj/Debug/net7.0/1a--4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/obj/Debug/net7.0/1a--4.AssemblyInfoInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/obj/Debug/net7.0/1a--4.AssemblyInfo.cs
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/obj/Debug/net7.0/1a--4.csproj.CoreCompileInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/obj/Debug/net7.0/1a--4.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/obj/Debug/net7.0/refint/1a--4.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/obj/Debug/net7.0/1a--4.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/obj/Debug/net7.0/1a--4.genruntimeconfig.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/1a--4/1a--4/obj/Debug/net7.0/ref/1a--4.dll

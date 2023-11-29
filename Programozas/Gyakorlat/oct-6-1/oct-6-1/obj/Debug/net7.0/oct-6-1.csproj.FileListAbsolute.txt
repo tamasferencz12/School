@@ -1,0 +1,15 @@
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/bin/Debug/net7.0/oct-6-1
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/bin/Debug/net7.0/oct-6-1.deps.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/bin/Debug/net7.0/oct-6-1.runtimeconfig.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/bin/Debug/net7.0/oct-6-1.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/bin/Debug/net7.0/oct-6-1.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/obj/Debug/net7.0/oct-6-1.csproj.AssemblyReference.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/obj/Debug/net7.0/oct-6-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/obj/Debug/net7.0/oct-6-1.AssemblyInfoInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/obj/Debug/net7.0/oct-6-1.AssemblyInfo.cs
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/obj/Debug/net7.0/oct-6-1.csproj.CoreCompileInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/obj/Debug/net7.0/oct-6-1.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/obj/Debug/net7.0/refint/oct-6-1.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/obj/Debug/net7.0/oct-6-1.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/obj/Debug/net7.0/oct-6-1.genruntimeconfig.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/oct-6-1/oct-6-1/obj/Debug/net7.0/ref/oct-6-1.dll

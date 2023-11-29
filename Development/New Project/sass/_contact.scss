@@ -1,0 +1,31 @@
+.contact{
+    &_container{
+        display: flex;
+        height: 5rem;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        background-color: #001;
+        font-size: 1.5rem;
+    }
+}
+
+.facebook{
+    padding-right: 5rem;
+}
+
+.instagram{
+    padding-right: 5rem;
+}
+
+.fa-facebook-square{
+    padding-right: 0.5rem;
+}
+
+.fa-instagram{
+    padding-right: 0.5rem;
+}
+
+.fa-envelope{
+    padding-right: 0.5rem;
+}

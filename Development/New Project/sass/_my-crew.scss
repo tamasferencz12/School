@@ -1,0 +1,24 @@
+.my-crew{
+    background-color: aqua;
+    background-image: url(../img/IMG_0869_Original.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 60rem;
+    padding-top: 6.4rem;
+    transform: translateY(-6.4rem);
+    z-index: 6;
+
+
+    &_title{
+        font-size: 4.5rem;
+        font-weight: 900;
+        margin: 0;
+        text-align: center;
+        font-family: Optima, sans-serif;
+    }
+}
+.me{
+    transform: translateX(76.4rem);
+    padding-top: 8rem;
+    width: 1rem;
+}

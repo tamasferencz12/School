@@ -1,0 +1,306 @@
+.about-me {
+  display: flex;
+  height: 35rem;
+  color: white;
+  z-index: 5;
+  padding-top: 6.4rem;
+  transform: translateY(-6.4rem); }
+  .about-me_title {
+    font-size: 2.5rem;
+    font-family: Optima, sans-serif; }
+  .about-me_text {
+    width: 15rem;
+    height: 20rem;
+    font-size: 1.5rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center; }
+
+.about-me_container {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  background-color: #001;
+  align-items: center; }
+
+.about-me_picture {
+  background-image: url(../img/IMG_3075.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 30%; }
+
+html, body {
+  margin: 0;
+  height: 100%;
+  scroll-behavior: smooth; }
+
+.container {
+  height: 100vh; }
+
+.contact_container {
+  display: flex;
+  height: 5rem;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: #001;
+  font-size: 1.5rem; }
+
+.facebook {
+  padding-right: 5rem; }
+
+.instagram {
+  padding-right: 5rem; }
+
+.fa-facebook-square {
+  padding-right: 0.5rem; }
+
+.fa-instagram {
+  padding-right: 0.5rem; }
+
+.fa-envelope {
+  padding-right: 0.5rem; }
+
+.header {
+  height: 42rem;
+  z-index: 2;
+  background-image: url(../img/88E1F725-8A29-4A29-9EA0-98E1A509417A.JPG);
+  background-size: cover;
+  background-position: center; }
+  .header_text {
+    color: white;
+    width: 30rem;
+    text-align: center;
+    font-size: 4.5rem;
+    font-weight: 900;
+    margin: 0;
+    margin-left: 3rem;
+    transform: translateY(28rem);
+    font-family: Optima, sans-serif; }
+    @media only screen and (max-width: 37.5em) {
+      .header_text {
+        margin-left: 0;
+        font-size: 3rem;
+        width: 15rem; } }
+
+.my-bike {
+  height: 28.5rem;
+  padding-top: 6.4rem;
+  transform: translateY(-12.5rem);
+  z-index: 7; }
+
+.my-bike-container {
+  display: grid;
+  z-index: 7;
+  background-color: #001;
+  padding: 1.5rem;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-gap: 1.2rem;
+  height: auto; }
+  @media only screen and (max-width: 62.5em) {
+    .my-bike-container {
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(4, 1fr); } }
+  @media only screen and (max-width: 37.5em) {
+    .my-bike-container {
+      grid-template-columns: repeat(1, 1fr);
+      grid-template-rows: repeat(8, 1fr); } }
+  .my-bike-container_picture1 {
+    background-image: url(../img/IMG_5688.JPG_Original.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    grid-row: 1/2;
+    grid-column: 1/2; }
+  .my-bike-container_picture2 {
+    background-image: url(../img/IMG_5691.JPG_Original.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    grid-row: 2/3;
+    grid-column: 2/3; }
+    @media only screen and (max-width: 37.5em) {
+      .my-bike-container_picture2 {
+        grid-row: 3/4;
+        grid-column: 1/2; } }
+  .my-bike-container_picture3 {
+    background-image: url(../img/IMG_5692.JPG_Original.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    grid-row: 1/2;
+    grid-column: 3/4; }
+    @media only screen and (max-width: 62.5em) {
+      .my-bike-container_picture3 {
+        grid-row: 3/4;
+        grid-column: 1/2; } }
+    @media only screen and (max-width: 37.5em) {
+      .my-bike-container_picture3 {
+        grid-row: 5/6;
+        grid-column: 1/2; } }
+  .my-bike-container_picture4 {
+    background-image: url(../img/IMG_5711.JPG_Original.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    grid-row: 2/3;
+    grid-column: 4/5; }
+    @media only screen and (max-width: 62.5em) {
+      .my-bike-container_picture4 {
+        grid-row: 4/5;
+        grid-column: 2/3; } }
+    @media only screen and (max-width: 37.5em) {
+      .my-bike-container_picture4 {
+        grid-row: 7/8;
+        grid-column: 1/2; } }
+  .my-bike-container_text1 {
+    color: white;
+    grid-row: 1/ 2;
+    grid-column: 2/ 3;
+    font-size: 2rem;
+    text-align: center;
+    margin: 4rem 0; }
+    @media only screen and (max-width: 37.5em) {
+      .my-bike-container_text1 {
+        grid-row: 4/5;
+        grid-column: 1/2; } }
+  .my-bike-container_text2 {
+    color: white;
+    grid-row: 2/ 3;
+    grid-column: 1/ 2;
+    font-size: 2rem;
+    text-align: center;
+    align-items: center;
+    margin: 4rem 0; }
+  .my-bike-container_text3 {
+    color: white;
+    grid-row: 2/ 3;
+    grid-column: 3/ 4;
+    font-size: 2rem;
+    text-align: center;
+    margin: 4rem 0; }
+    @media only screen and (max-width: 62.5em) {
+      .my-bike-container_text3 {
+        grid-row: 3/4;
+        grid-column: 2/3; } }
+    @media only screen and (max-width: 37.5em) {
+      .my-bike-container_text3 {
+        grid-row: 6/7;
+        grid-column: 1/2; } }
+  .my-bike-container_text4 {
+    color: white;
+    grid-row: 1/ 2;
+    grid-column: 4/ 5;
+    font-size: 2rem;
+    text-align: center;
+    margin: 4rem 0; }
+    @media only screen and (max-width: 62.5em) {
+      .my-bike-container_text4 {
+        grid-row: 4/5;
+        grid-column: 1/2; } }
+    @media only screen and (max-width: 37.5em) {
+      .my-bike-container_text4 {
+        grid-row: 8/9;
+        grid-column: 1/2; } }
+
+.bike {
+  background-color: white;
+  color: black;
+  font-size: 2.5rem;
+  font-weight: 900;
+  margin-left: 2rem;
+  font-family: Optima, sans-serif; }
+
+.my-crew {
+  background-color: aqua;
+  background-image: url(../img/IMG_0869_Original.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 60rem;
+  padding-top: 6.4rem;
+  transform: translateY(-6.4rem);
+  z-index: 6; }
+  .my-crew_title {
+    font-size: 4.5rem;
+    font-weight: 900;
+    margin: 0;
+    text-align: center;
+    font-family: Optima, sans-serif; }
+
+.me {
+  transform: translateX(76.4rem);
+  padding-top: 8rem;
+  width: 1rem; }
+
+.nav-bar {
+  z-index: 1;
+  background-color: black;
+  color: white;
+  height: 14.2%;
+  width: 100%;
+  position: fixed;
+  display: flex;
+  justify-content: space-between; }
+  .nav-bar_title {
+    font-size: 2.4rem;
+    width: 9rem;
+    margin: 0;
+    margin-top: 1.2rem;
+    transform: translateX(3rem); }
+  .nav-bar_text {
+    font-size: 0.9rem;
+    width: 6rem;
+    margin: 0;
+    transform: translateX(3.5rem); }
+  .nav-bar_buttons {
+    display: flex;
+    align-items: center; }
+    .nav-bar_buttons_button {
+      width: 6rem;
+      border-radius: 20%;
+      font-size: 1.2rem;
+      margin: 0.5rem 0.8rem;
+      color: white;
+      background-color: black;
+      border: none;
+      text-align: center;
+      text-decoration: none;
+      align-items: center; }
+      @media only screen and (max-width: 56.25em) {
+        .nav-bar_buttons_button {
+          margin-top: 1.2rem; } }
+    .nav-bar_buttons_button:hover {
+      background-color: white;
+      color: black;
+      transition: all 0.8s; }
+
+.box_hidden {
+  height: 6.4rem;
+  width: 100%;
+  z-index: 1000; }
+
+.responsive-btn {
+  transform: translateX(-2rem);
+  height: 3rem; }
+
+.videos-div {
+  z-index: 9; }
+
+.some-videos_title {
+  font-size: 2rem;
+  font-family: Optima, sans-serif;
+  font-weight: 900;
+  padding-top: 0;
+  width: 30%;
+  transform: translateX(2rem); }
+
+.some-videos {
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  height: auto;
+  padding: 1rem 0; }
+
+.some-videos_video {
+  width: 20rem; }

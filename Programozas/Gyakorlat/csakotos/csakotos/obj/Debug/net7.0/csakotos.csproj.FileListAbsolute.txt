@@ -1,0 +1,15 @@
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/bin/Debug/net7.0/csakotos
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/bin/Debug/net7.0/csakotos.deps.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/bin/Debug/net7.0/csakotos.runtimeconfig.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/bin/Debug/net7.0/csakotos.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/bin/Debug/net7.0/csakotos.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/obj/Debug/net7.0/csakotos.csproj.AssemblyReference.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/obj/Debug/net7.0/csakotos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/obj/Debug/net7.0/csakotos.AssemblyInfoInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/obj/Debug/net7.0/csakotos.AssemblyInfo.cs
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/obj/Debug/net7.0/csakotos.csproj.CoreCompileInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/obj/Debug/net7.0/csakotos.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/obj/Debug/net7.0/refint/csakotos.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/obj/Debug/net7.0/csakotos.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/obj/Debug/net7.0/csakotos.genruntimeconfig.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/csakotos/csakotos/obj/Debug/net7.0/ref/csakotos.dll

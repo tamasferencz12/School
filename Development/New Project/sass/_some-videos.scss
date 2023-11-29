@@ -1,0 +1,23 @@
+.videos-div{
+    z-index: 9;
+}
+
+.some-videos_title{
+    font-size: 2rem;
+    font-family: Optima, sans-serif;
+    font-weight: 900;
+    padding-top: 0;
+    width: 30%;
+    transform: translateX(2rem);
+}
+.some-videos{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+    padding:1rem 0;
+}
+
+.some-videos_video{
+    width: 20rem;
+}

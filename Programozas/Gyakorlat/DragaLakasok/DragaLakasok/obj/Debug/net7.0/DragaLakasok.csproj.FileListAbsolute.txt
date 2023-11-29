@@ -1,0 +1,15 @@
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/bin/Debug/net7.0/DragaLakasok
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/bin/Debug/net7.0/DragaLakasok.deps.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/bin/Debug/net7.0/DragaLakasok.runtimeconfig.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/bin/Debug/net7.0/DragaLakasok.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/bin/Debug/net7.0/DragaLakasok.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/obj/Debug/net7.0/DragaLakasok.csproj.AssemblyReference.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/obj/Debug/net7.0/DragaLakasok.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/obj/Debug/net7.0/DragaLakasok.AssemblyInfoInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/obj/Debug/net7.0/DragaLakasok.AssemblyInfo.cs
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/obj/Debug/net7.0/DragaLakasok.csproj.CoreCompileInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/obj/Debug/net7.0/DragaLakasok.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/obj/Debug/net7.0/refint/DragaLakasok.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/obj/Debug/net7.0/DragaLakasok.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/obj/Debug/net7.0/DragaLakasok.genruntimeconfig.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/DragaLakasok/DragaLakasok/obj/Debug/net7.0/ref/DragaLakasok.dll

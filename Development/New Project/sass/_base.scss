@@ -1,0 +1,18 @@
+html, body {
+  margin:0;
+  height:100%;
+  scroll-behavior: smooth;
+}
+
+.container{
+  height:100vh;
+}
+
+$bp-max: 100em; //1600px
+$bp-largest: 87.5em; //1400px
+$bp-large: 68.75em; // 1100px
+$bp-large-2: 62.5em; //1000px
+$bp-medium: 56.25em; // 900px
+$bp-medium-2: 43.75em; //700px
+$bp-small: 37.5em; // 600px
+$bp-min: 25em; //400px

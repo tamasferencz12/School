@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7C8670F3-4C90-4295-936A-9BA9CBDC12BC}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mindenhol_elofordulo_madarfajok/Program.cs">
+    <Files>
+      <File FileName="Mindenhol_elofordulo_madarfajok/Program.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mindenhol_elofordulo_madarfajok" expanded="True">
+            <Node name="Helysegek_mindenfele_madarral" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Helysegek__mindenfele__madarral PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

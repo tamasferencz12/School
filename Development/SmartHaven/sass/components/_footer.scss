@@ -1,0 +1,41 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 8vh 10vh 0 10vh;
+
+    &__list{
+        display: flex;
+    }
+
+    &__item{
+        list-style: none;
+        font-size: 1.3vw;
+        padding: 3vw;
+        transition: all .4s ease-in-out;
+    }
+
+    &__link{
+        text-decoration: none;
+        padding: 1vh;
+        color: $color-white;
+        background-color: $color-primary-dark;
+
+    }
+
+    &__logo{
+        filter: invert(100%);
+    }
+}
+
+.r-l:hover{
+    transition: all .4s ease-in-out;
+    transform: rotate(-10deg);
+}
+
+.r-r:hover{
+    transition: all .4s ease-in-out;
+    transform: rotate(10deg);
+    
+}

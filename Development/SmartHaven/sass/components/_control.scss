@@ -1,0 +1,73 @@
+.control{
+    height: 220vh;
+    margin-top: -25%;
+    background-image: linear-gradient(
+        to right bottom,
+        rgba($color-primary-light, 0.8),
+        rgba($color-primary-dark, 0.8)),
+    url(/img/wetransfer_okosotthon-kepek_2023-09-14_1754/AdobeStock_606086443.jpeg);
+    background-size: cover;
+    background-position: top;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+
+    &__title{
+        font-size: 4vw;
+        color: $color-white;
+        padding-top: 10vh;
+    }
+
+    &__elements{
+        display: flex;
+        justify-content: space-around;
+        padding-top: 10vh;
+        &__cont{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            align-items: center;
+            height: auto;
+            width: 33.33333vw;
+            margin:  2vw;
+            color: $color-white;
+            background-color:rgba($color-primary-dark, 0.4);
+            border-radius: 5%;
+
+            
+
+            &__image{
+                height:auto;
+                border-radius: 5%;
+                width: 25vw;
+                margin: 8vh 8vh 0 8vh;
+                scale: 1;
+                overflow: hidden;
+                transition: all .5s ease-in-out;
+
+                &:hover{
+                    transform: scale(1.1);
+                }
+            }
+
+            &__title{
+                font-size: 2.5vw;
+            }
+
+            &__text{
+                font-size: 1.4vw;
+                font-weight: 300;
+                width: fit-content;
+                height: auto;
+                padding: 1vw;
+            }
+        }
+    }
+}
+
+.cont-move{
+    transform: translateY(-10%);
+}

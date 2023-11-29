@@ -1,0 +1,36 @@
+==================================================================================
+Peldak -lista oktato
+==================================================================================
+> bash teams.sh -lista János
+2 János nevu oktatot talaltunk. Adja meg a pontosan kire gondolt!
+ Kioktató János vagy  Bolyai János?
+
+> bash teams.sh -lista 'Bolyai János'
+ Bolyai János kurzusai: Matematika, Fizika, Geometria
+
+> bash teams.sh -lista Dsida
+ Dsida Jenő kurzusai: Latin nyelv
+
+> bash teams.sh -lista Pista
+Nem talalhato a 'Pista' nevu oktato.
+==================================================================================
+Peldak -hallgato hallgato
+==================================================================================
+> bash teams.sh -hallgato Tunde
+Nem talalhato a 'Tunde' nevu hallgato.
+
+> bash teams.sh -hallgato Janos
+2 Janos nevu hallgatot talaltunk. Adja meg a pontosan kire gondolt!
+Kis Janos vagy Nagy Janos?
+
+> bash teams.sh -hallgato 'Kis Janos'
+Kis Janos tanarai: [aghj56] Kioktató János, [ltb123] Dsida Jenő
+
+> bash teams.sh -hallgato Okos
+Okos Tojás tanarai: [aghj56] Kioktató János, [ltb123] Dsida Jenő, [mtb324] Bolyai Janos, [gma1] Bolyai Janos, [fzk1] Bolyai Janos
+==================================================================================
+Peldak -sok
+==================================================================================
+> bash teams.sh -sok
+A legtobb meghirdetett kurzus 3, oktato:  Bolyai János
+ Bolyai János kurzusai: Matematika, Fizika, Geometria

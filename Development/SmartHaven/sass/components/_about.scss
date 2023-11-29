@@ -1,0 +1,85 @@
+.about{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 120vh;
+    transform: translateY(-15%);
+    z-index: 999;
+
+    background-image: linear-gradient(
+        to right bottom,
+        rgba($color-white, 0.1),
+        rgba($color-white, 0.1)),
+    url(/img/wetransfer_okosotthon-kepek_2023-09-14_1754/bg_01-4-1024x576.jpg);
+    clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 85%, 50% 100%, 0 85%);
+    background-size: cover;
+    background-position: top;
+    position: relative;
+
+    &__text{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 10vh;
+
+        &__title{
+            color: $color-grey-dark-3;
+            font-size: 7vh;
+            text-transform: uppercase;
+            padding-bottom: 2vh;
+        }
+
+        &__text{
+            color: $color-grey-dark-3;
+            font-size: $default-font-size;
+            width: 50vw;
+            font-weight: 300;
+            text-align: center;
+        }
+    }
+}
+
+.cont{
+    margin: 5vw;
+    width: min-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.logos{
+    display: flex;
+    height: 35vh;
+
+    &__el{
+        font-size: 5rem;
+        width: auto;
+        color: $color-grey-dark-3;
+        background-color: $color-white;
+        align-self: center;
+        box-shadow: 4px 2px 2px $color-grey-dark-2;
+        border: none;
+        border-radius: 50%;
+        padding: 1vw;
+        margin-bottom: 5%;
+
+        &:hover{
+            transform: translateY(.8rem);
+            transition: all .4s ease-in-out;
+        }
+        
+    }
+
+    &__cont-text{
+        font-size: $default-font-size;
+        text-align: center;
+        line-height: 1.1;
+        padding-top: 2vh;
+    }
+}
+
+.phone{
+    width: 6.3rem;
+}
+

@@ -1,0 +1,15 @@
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/bin/Debug/net7.0/kartyak
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/bin/Debug/net7.0/kartyak.deps.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/bin/Debug/net7.0/kartyak.runtimeconfig.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/bin/Debug/net7.0/kartyak.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/bin/Debug/net7.0/kartyak.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/obj/Debug/net7.0/kartyak.csproj.AssemblyReference.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/obj/Debug/net7.0/kartyak.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/obj/Debug/net7.0/kartyak.AssemblyInfoInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/obj/Debug/net7.0/kartyak.AssemblyInfo.cs
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/obj/Debug/net7.0/kartyak.csproj.CoreCompileInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/obj/Debug/net7.0/kartyak.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/obj/Debug/net7.0/refint/kartyak.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/obj/Debug/net7.0/kartyak.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/obj/Debug/net7.0/kartyak.genruntimeconfig.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/kartyak/kartyak/obj/Debug/net7.0/ref/kartyak.dll

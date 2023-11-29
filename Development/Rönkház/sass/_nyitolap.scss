@@ -1,0 +1,111 @@
+.galery{
+    height: auto;
+    background-image: linear-gradient(to bottom right, #FFC837 10%, #FF8008 80%);
+
+    &_flexbox{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.el-1{
+    display: flex;
+    justify-content: flex-end;
+
+    @media only screen and (max-width: 1350px){
+        flex-direction: column;
+        font-size: 1.8rem;
+    }
+
+    align-items: center;
+    justify-content: center;
+
+    font-size: 1.5rem;
+
+    @media only screen and (min-width: 2550px){
+        font-size: 3rem;
+    }
+}
+.el-2{
+    display: flex;
+    justify-content: flex-start;
+
+    @media only screen and (max-width: 1350px){
+        flex-direction: column-reverse;
+        font-size: 1.8rem;
+    }
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+
+    @media only screen and (min-width: 2550px){
+        font-size: 3rem;
+    }
+}
+.el-3{
+    display: flex;
+    justify-content: flex-end;
+
+    @media only screen and (max-width: 1350px){
+        flex-direction: column;
+        font-size: 1.8rem;
+    }
+
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+
+    @media only screen and (min-width: 2550px){
+        font-size: 3rem;
+    }
+}
+
+.el-4{
+    display: flex;
+    justify-content: flex-start;
+
+    @media only screen and (max-width: 1350px){
+        flex-direction: column-reverse;
+        font-size: 1.8rem;
+    }
+
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+
+    @media only screen and (min-width: 2550px){
+        font-size: 3rem;
+    }
+}
+
+.el-5{
+    display: flex;
+    justify-content: flex-end;
+
+    @media only screen and (max-width: 1350px){
+        flex-direction: column;
+        font-size: 1.8rem;
+    }
+
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+
+    @media only screen and (min-width: 2550px){
+        font-size: 3rem;
+    }
+}
+
+.el_image{
+    margin: 2rem 5rem 2rem 5rem;
+    height: 25rem;
+    width: auto;
+    border: 3px solid black;
+    border-radius: 1rem;
+}
+
+.el_text{
+    text-align: center;
+    justify-content: center;
+    margin: 8rem;
+}

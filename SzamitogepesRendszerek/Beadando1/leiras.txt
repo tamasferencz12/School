@@ -1,0 +1,12 @@
+==================================================================================
+Feladat leirassa:
+
+4. Készítsen shell szkriptet, amelyik egy egyetemen a teams csoportokkal kapcsolatos feladatokat végzi el teams.sh néven.
+Az összes teams csoport neve, csatlakozási kódja és az oktatók neve egy teams.dat fájlban van megadva, egymástól vesszővel pl. Geptan, aghj56, Kioktató János.
+Egy másik fájlban (hallgato.dat) a hallgatók neptun kódját és az általuk látogatott teams kurzusok csatlakozási kódjait, szintén vesszővel elválasztva tároljuk.
+pl. Okos Tojás, aghj56, klcvrt,dfgh18
+Kapcsolókkal valósítsuk meg a következő feladatokat
+-lista oktatonev esetén az adott nevű tanárhoz tartozó kurzusok neveit
+-hallgato hallgatonev esetén adjuk meg, hogy kik tanítják.
+-sok esetén adja meg, hogy melyik oktatónak van a legtöbb meghirdetett kurzusa.
+==================================================================================

@@ -1,0 +1,149 @@
+.my-bike{
+    height: 28.5rem;
+    padding-top: 6.4rem;
+    transform: translateY(-12.5rem);
+    z-index: 7;
+}
+
+.my-bike-container{
+    display: grid;
+    z-index: 7;
+
+    background-color: #001;
+    padding: 1.5rem;
+
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-gap: 1.2rem;
+    height: auto;
+
+    @media only screen and (max-width: $bp-large-2) {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+    }
+    @media only screen and (max-width: $bp-small) {
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(8, 1fr);
+    }
+
+    &_picture1{
+        background-image: url(../img/IMG_5688.JPG_Original.jpg);
+        background-size: cover;
+        background-position: center;
+        border-radius: 10px;
+        grid-row: 1/2;
+        grid-column: 1/2;
+    }
+    &_picture2{
+        background-image: url(../img/IMG_5691.JPG_Original.jpg);
+        background-size: cover;
+        background-position: center;
+        border-radius: 10px;
+        grid-row: 2/3;
+        grid-column: 2/3;
+        @media only screen and (max-width: $bp-small) {
+            grid-row: 3/4;
+            grid-column: 1/2;
+        }
+    }
+    &_picture3{
+        background-image: url(../img/IMG_5692.JPG_Original.jpg);
+        background-size: cover;
+        background-position: center;
+        border-radius: 10px;
+        grid-row: 1/2;
+        grid-column: 3/4;
+        @media only screen and (max-width: $bp-large-2) {
+            grid-row: 3/4;
+            grid-column: 1/2;
+        }
+        @media only screen and (max-width: $bp-small) {
+            grid-row: 5/6;
+            grid-column: 1/2;
+        }
+    }
+    &_picture4{
+        background-image: url(../img/IMG_5711.JPG_Original.jpg);
+        background-size: cover;
+        background-position: center;
+        border-radius: 10px;
+        grid-row: 2/3;
+        grid-column: 4/5;
+
+        @media only screen and (max-width: $bp-large-2) {
+            grid-row: 4/5;
+            grid-column: 2/3;
+        }
+        @media only screen and (max-width: $bp-small) {
+            grid-row: 7/8;
+            grid-column: 1/2;
+        }
+    }
+
+    &_text1{
+        color: white;
+        grid-row: 1/ 2;
+        grid-column: 2/ 3;
+        font-size: 2rem;
+        text-align: center;
+        margin: 4rem 0;
+        @media only screen and (max-width: $bp-small) {
+            grid-row: 4/5;
+            grid-column: 1/2;
+        }
+    }
+
+    &_text2{
+        color: white;
+        grid-row: 2/ 3;
+        grid-column: 1/ 2;
+        font-size: 2rem;
+        text-align: center;
+        align-items: center;
+        margin: 4rem 0;
+    }
+
+    &_text3{
+        color: white;
+        grid-row: 2/ 3;
+        grid-column: 3/ 4;
+        font-size: 2rem;
+        text-align: center;
+        margin: 4rem 0;
+
+        @media only screen and (max-width: $bp-large-2) {
+            grid-row: 3/4;
+            grid-column: 2/3;
+        }
+        @media only screen and (max-width: $bp-small) {
+            grid-row: 6/7;
+            grid-column: 1/2;
+        }
+    }
+
+    &_text4{
+        color: white;
+        grid-row: 1/ 2;
+        grid-column: 4/ 5;
+        font-size: 2rem;
+        text-align: center;
+        margin: 4rem 0;
+        @media only screen and (max-width: $bp-large-2) {
+            grid-row: 4/5;
+            grid-column: 1/2;
+        }
+        @media only screen and (max-width: $bp-small) {
+            grid-row: 8/9;
+            grid-column: 1/2;
+        }
+    }
+}
+
+.bike{
+    background-color: white;
+    color: black;
+    font-size: 2.5rem;
+    font-weight: 900;
+    margin-left: 2rem;
+    font-family: Optima, sans-serif;
+}

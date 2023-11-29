@@ -1,0 +1,15 @@
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/bin/Debug/net7.0/faktorialis
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/bin/Debug/net7.0/faktorialis.deps.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/bin/Debug/net7.0/faktorialis.runtimeconfig.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/bin/Debug/net7.0/faktorialis.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/bin/Debug/net7.0/faktorialis.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/obj/Debug/net7.0/faktorialis.csproj.AssemblyReference.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/obj/Debug/net7.0/faktorialis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/obj/Debug/net7.0/faktorialis.AssemblyInfoInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/obj/Debug/net7.0/faktorialis.AssemblyInfo.cs
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/obj/Debug/net7.0/faktorialis.csproj.CoreCompileInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/obj/Debug/net7.0/faktorialis.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/obj/Debug/net7.0/refint/faktorialis.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/obj/Debug/net7.0/faktorialis.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/obj/Debug/net7.0/faktorialis.genruntimeconfig.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/faktorialis/faktorialis/obj/Debug/net7.0/ref/faktorialis.dll

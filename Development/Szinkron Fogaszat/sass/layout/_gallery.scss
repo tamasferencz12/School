@@ -1,0 +1,48 @@
+.main-container {
+  background-color: $color-primary;
+  height: auto;
+}
+
+.gallery {
+  display: flex;
+  @media only screen and (max-width: 56.25em) {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  padding: 2px;
+  transition: 0.3s;
+
+  &__column {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    @media only screen and (max-width: 56.25em) {
+      width: 65vw;
+      height: auto;
+    }
+    @media only screen and (max-width: 37.5em) {
+      width: 85vw;
+      height: auto;
+    }
+  }
+
+  &__link {
+    margin: 1vw;
+    overflow: hidden;
+  }
+
+  &__thumb {
+    position: relative;
+  }
+
+  &__image {
+    display: block;
+    width: 100%;
+    transition: 0.3s;
+
+    &:hover {
+      transform: scale(1.2);
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/tamas/Projects/1b-1/1b-1/bin/Debug/net7.0/1b-1
+/Users/tamas/Projects/1b-1/1b-1/bin/Debug/net7.0/1b-1.deps.json
+/Users/tamas/Projects/1b-1/1b-1/bin/Debug/net7.0/1b-1.runtimeconfig.json
+/Users/tamas/Projects/1b-1/1b-1/bin/Debug/net7.0/1b-1.dll
+/Users/tamas/Projects/1b-1/1b-1/bin/Debug/net7.0/1b-1.pdb
+/Users/tamas/Projects/1b-1/1b-1/obj/Debug/net7.0/1b-1.csproj.AssemblyReference.cache
+/Users/tamas/Projects/1b-1/1b-1/obj/Debug/net7.0/1b-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamas/Projects/1b-1/1b-1/obj/Debug/net7.0/1b-1.AssemblyInfoInputs.cache
+/Users/tamas/Projects/1b-1/1b-1/obj/Debug/net7.0/1b-1.AssemblyInfo.cs
+/Users/tamas/Projects/1b-1/1b-1/obj/Debug/net7.0/1b-1.csproj.CoreCompileInputs.cache
+/Users/tamas/Projects/1b-1/1b-1/obj/Debug/net7.0/1b-1.dll
+/Users/tamas/Projects/1b-1/1b-1/obj/Debug/net7.0/refint/1b-1.dll
+/Users/tamas/Projects/1b-1/1b-1/obj/Debug/net7.0/1b-1.pdb
+/Users/tamas/Projects/1b-1/1b-1/obj/Debug/net7.0/1b-1.genruntimeconfig.cache
+/Users/tamas/Projects/1b-1/1b-1/obj/Debug/net7.0/ref/1b-1.dll

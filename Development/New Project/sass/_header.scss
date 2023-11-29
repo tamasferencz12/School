@@ -1,0 +1,26 @@
+.header{
+    height:42rem;
+
+    z-index: 2;
+
+    background-image: url(../img/88E1F725-8A29-4A29-9EA0-98E1A509417A.JPG);
+    background-size: cover;
+    background-position:center;
+
+    &_text{
+        color: white;
+        width: 30rem;
+        text-align: center;
+        font-size: 4.5rem;
+        font-weight: 900;
+        margin: 0;
+        margin-left: 3rem;
+        transform: translateY(28rem);
+        font-family: Optima, sans-serif;
+        @media only screen and (max-width: $bp-small) {
+            margin-left: 0;
+            font-size: 3rem;
+            width: 15rem;
+        }
+    }
+}

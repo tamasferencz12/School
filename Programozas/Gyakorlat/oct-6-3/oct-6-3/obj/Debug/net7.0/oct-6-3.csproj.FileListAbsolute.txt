@@ -1,0 +1,15 @@
+/Users/tamas/Projects/oct-6-3/oct-6-3/bin/Debug/net7.0/oct-6-3
+/Users/tamas/Projects/oct-6-3/oct-6-3/bin/Debug/net7.0/oct-6-3.deps.json
+/Users/tamas/Projects/oct-6-3/oct-6-3/bin/Debug/net7.0/oct-6-3.runtimeconfig.json
+/Users/tamas/Projects/oct-6-3/oct-6-3/bin/Debug/net7.0/oct-6-3.dll
+/Users/tamas/Projects/oct-6-3/oct-6-3/bin/Debug/net7.0/oct-6-3.pdb
+/Users/tamas/Projects/oct-6-3/oct-6-3/obj/Debug/net7.0/oct-6-3.csproj.AssemblyReference.cache
+/Users/tamas/Projects/oct-6-3/oct-6-3/obj/Debug/net7.0/oct-6-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamas/Projects/oct-6-3/oct-6-3/obj/Debug/net7.0/oct-6-3.AssemblyInfoInputs.cache
+/Users/tamas/Projects/oct-6-3/oct-6-3/obj/Debug/net7.0/oct-6-3.AssemblyInfo.cs
+/Users/tamas/Projects/oct-6-3/oct-6-3/obj/Debug/net7.0/oct-6-3.csproj.CoreCompileInputs.cache
+/Users/tamas/Projects/oct-6-3/oct-6-3/obj/Debug/net7.0/oct-6-3.dll
+/Users/tamas/Projects/oct-6-3/oct-6-3/obj/Debug/net7.0/refint/oct-6-3.dll
+/Users/tamas/Projects/oct-6-3/oct-6-3/obj/Debug/net7.0/oct-6-3.pdb
+/Users/tamas/Projects/oct-6-3/oct-6-3/obj/Debug/net7.0/oct-6-3.genruntimeconfig.cache
+/Users/tamas/Projects/oct-6-3/oct-6-3/obj/Debug/net7.0/ref/oct-6-3.dll

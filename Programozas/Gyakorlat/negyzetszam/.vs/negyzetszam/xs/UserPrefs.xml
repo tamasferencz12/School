@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{88B56C5D-35D7-485F-B55A-D52E78F9944B}|Default">
+  <MonoDevelop.Ide.ItemProperties.negyzetszam PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="negyzetszam/Program.cs">
+    <Files>
+      <File FileName="negyzetszam/Program.cs" Line="12" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="negyzetszam" expanded="True">
+            <Node name="negyzetszam" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

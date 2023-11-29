@@ -1,0 +1,15 @@
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/bin/Debug/net7.0/Beadando_2_code
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/bin/Debug/net7.0/Beadando_2_code.deps.json
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/bin/Debug/net7.0/Beadando_2_code.runtimeconfig.json
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/bin/Debug/net7.0/Beadando_2_code.dll
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/bin/Debug/net7.0/Beadando_2_code.pdb
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/obj/Debug/net7.0/Beadando_2_code.csproj.AssemblyReference.cache
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/obj/Debug/net7.0/Beadando_2_code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/obj/Debug/net7.0/Beadando_2_code.AssemblyInfoInputs.cache
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/obj/Debug/net7.0/Beadando_2_code.AssemblyInfo.cs
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/obj/Debug/net7.0/Beadando_2_code.csproj.CoreCompileInputs.cache
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/obj/Debug/net7.0/Beadando_2_code.dll
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/obj/Debug/net7.0/refint/Beadando_2_code.dll
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/obj/Debug/net7.0/Beadando_2_code.pdb
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/obj/Debug/net7.0/Beadando_2_code.genruntimeconfig.cache
+/Users/tamas/Desktop/Beadandok/Programozas/Beadando_2_code/Beadando_2_code/obj/Debug/net7.0/ref/Beadando_2_code.dll

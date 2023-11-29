@@ -1,0 +1,32 @@
+.header {
+  height: 100vh;
+  background-image: linear-gradient(
+      to right bottom,
+      rgba($color-primary, 0.6),
+      rgba($color-secondary, 0.6)
+    ),
+    url(/img/Szinkron-56-min.jpg);
+  background-size: cover;
+  background-position: top;
+  position: relative;
+
+  @media only screen and (min-resolution: 192dpi) and (min-width: 37.5em),
+    only screen and (min-width: 37.5em),
+    only screen and (min-width: 125em) {
+    background-image: linear-gradient(
+        to right bottom,
+        rgba($color-primary, 0.8),
+        rgba($color-secondary, 0.8)
+      ),
+      url(/img/Szinkron-56-min.jpg);
+  }
+
+  &__text-box {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 80vw;
+  }
+}

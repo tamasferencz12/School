@@ -1,0 +1,24 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; //1rem = 10px
+  scroll-behavior: smooth;
+
+  font-family: "Titillium Web", sans-serif;
+
+  @media only screen and (max-width: $bp-large) {
+    font-size: 50%;
+  }
+}
+
+::selection {
+  background-color: $color-primary;
+  color: $color-grey-light-1;
+}

@@ -1,0 +1,15 @@
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/bin/Debug/net7.0/fibonacci
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/bin/Debug/net7.0/fibonacci.deps.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/bin/Debug/net7.0/fibonacci.runtimeconfig.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/bin/Debug/net7.0/fibonacci.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/bin/Debug/net7.0/fibonacci.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/obj/Debug/net7.0/fibonacci.csproj.AssemblyReference.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/obj/Debug/net7.0/fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/obj/Debug/net7.0/fibonacci.AssemblyInfoInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/obj/Debug/net7.0/fibonacci.AssemblyInfo.cs
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/obj/Debug/net7.0/fibonacci.csproj.CoreCompileInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/obj/Debug/net7.0/fibonacci.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/obj/Debug/net7.0/refint/fibonacci.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/obj/Debug/net7.0/fibonacci.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/obj/Debug/net7.0/fibonacci.genruntimeconfig.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/fibonacci/fibonacci/obj/Debug/net7.0/ref/fibonacci.dll

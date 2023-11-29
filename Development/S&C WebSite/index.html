@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="shortcut icon" type="image/png" href="./img/IconCode.png">
+        <script type="text/javascript" src="script.js"></script>
+        <script src="https://kit.fontawesome.com/ee793b0948.js"
+            crossorigin="anonymous"></script>
+        <script defer
+            src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
+
+        <title> Portfolio | My programming life</title>
+    </head>
+
+    <body id="body">
+
+        <div class="container">
+            <h1>Mode</h1>
+            <button
+                onclick="darkMode('body'); darkModeText('nav-1'); darkModeText('nav-2'); darkModeText('nav-3'); darkModeText('nav-4'); darkModeText('nav-5'); darkModeText('header'); darkMode('My learnings'); darkMode('feature-box-1'); darkMode('feature-box-2'); darkMode('feature-box-3'); darkMode('feature-box-4'); darkMode('section-favorite'); darkMode('story-1'); darkMode('story-2'); darkModeText('card-1'); darkModeText('card-2'); darkModeText('card-3'); darkMode('FullName'); darkMode('Email'); darkMode('Message'); darkModeText('card-1'); darkModeText('card-2'); darkModeText('card-3'); darkModeText('placeholder-name'); darkModeText('placeholder-email'); darkModeText('placeholder-message'); darkModeText('header_logo'); darkMode('navigation'); lightModeText('navi-icon'); transparent('darkModeIcon', 'lightModeIcon')"
+                class="fas fa-moon darkModeIcon_1 " id="darkModeIcon"></button>
+            <button
+                onclick="lightMode('body'); lightModeText('nav-1'); lightModeText('nav-2'); lightModeText('nav-3'); lightModeText('nav-4'); lightModeText('nav-5'); lightModeText('header'); lightMode('My learnings'); lightMode('feature-box-1'); lightMode('feature-box-2'); lightMode('feature-box-3'); lightMode('feature-box-4'); lightMode('section-favorite'); lightMode('story-1'); lightMode('story-2'); darkModeText('card-1'); darkModeText('card-2'); darkModeText('card-3'); lightMode('FullName'); lightMode('Email'); lightMode('Message'); darkModeText('card-1'); darkModeText('card-2'); darkModeText('card-3'); darkModeText('placeholder-name'); darkModeText('placeholder-email'); darkModeText('placeholder-message'); lightModeText('header_logo'); lightMode('navigation');  darkModeText('navi-icon'); transparent('lightModeIcon', 'darkModeIcon')"
+                class="fas fa-sun  darkModeIcon_2 " id="lightModeIcon"></button>
+        </div>
+
+        <div class="navigation">
+            <input type="checkbox" class="navigation__checkbox" id="navi-toggle">
+
+            <label for="navi-toggle" class="navigation__button" id="navigation">
+                <span class="navigation__icon" id="navi-icon">&nbsp;</span>
+            </label>
+
+            <div class="navigation__background">&nbsp;</div>
+
+            <nav class="navigation__nav">
+                <ul class="navigation__list">
+                    <li class="navigation__item"><a id="nav-1"
+                            onclick="document.getElementById('navi-toggle').click()"
+                            href="#My learnings" class="navigation__link"><span>01</span>My
+                            learnings</a></li>
+                    <li class="navigation__item"><a id="nav-2"
+                            onclick="document.getElementById('navi-toggle').click()"
+                            href="#Languages" class="navigation__link"><span>02</span>Languages</a></li>
+                    <li class="navigation__item"><a id="nav-3"
+                            onclick="document.getElementById('navi-toggle').click()"
+                            href="#section-favorite" class="navigation__link"><span>03</span>What
+                            I like to code</a></li>
+                    <li class="navigation__item"><a id="nav-4"
+                            onclick="document.getElementById('navi-toggle').click()"
+                            href="#section-myschools" class="navigation__link"><span>04</span>Schools</a></li>
+                    <li class="navigation__item"><a id="nav-5"
+                            onclick="document.getElementById('navi-toggle').click()"
+                            href="#Email" class="navigation__link"><span>05</span>Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <header class="header">
+            <div class="header__logo-box">
+                <i class="fa-solid fa-laptop-code header__logo-box__logo1"
+                    id="header_logo"></i>
+            </div>
+
+            <div class="header__text-box">
+                <h1 class="heading-primary" id="header">
+                    <span class="heading-primary--main">Portfolio</span>
+                    <span class="heading-primary--sub">my programming life</span>
+                </h1>
+            </div>
+        </header>
+
+        <main>
+            <section class="section-learnings" id="My learnings">
+                <div class="u-center-text u-margin-bottom-big">
+                    <h2 class="heading-secondary">
+                        My learnings
+                    </h2>
+                </div>
+
+                <div class="row">
+                    <div class="col-1-of-2">
+                        <h3 class="heading-tertiary u-margin-bottom-small">High
+                            school</h3>
+                        <p class="paragraph">
+                            I'm in a class where my main subjects are
+                            mathematics and informatics. I learn basic
+                            programing languages such as c++, database (MYSQL)
+                            and web development.
+                        </p>
+
+                        <h3 class="heading-tertiary u-margin-bottom-small">University</h3>
+                        <p class="paragraph">
+                            The chosen one is ELTE IK in Hungary. There I can
+                            step up my career and I can see the path I want
+                            to be in.
+                        </p>
+
+                        <a href="https://salamon.ro" target="_blank"
+                            class="btn-text">See more &rarr;</a>
+                    </div>
+                    <div class="col-1-of-2">
+                        <div class="composition">
+
+                            <img class="img1" src="./img/HTML.jpeg">
+
+                            <img class="img2" src="./img/C++.png">
+
+                            <img class="img3" src="./img/MYSQL.avif">
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section-languages" id="Languages">
+
+                <div class="row">
+                    <div class="col-1-of-4">
+                        <div class="feature-box" id="feature-box-1">
+                            <h3 class="heading-tertiary u-margin-bottom-small">C++</h3>
+                            <p class="feature-box__text">
+                                I use this language to solve mathematical
+                                questions for instance finding palindromic
+                                numbers.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-4">
+                        <div class="feature-box" id="feature-box-2">
+                            <h3 class="heading-tertiary u-margin-bottom-small">MYSQL</h3>
+                            <p class="feature-box__text">
+                                I created a lot of databases like what companies
+                                use. It helps to store informations like sales
+                                and suply refills.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-4">
+                        <div class="feature-box" id="feature-box-3">
+                            <h3 class="heading-tertiary u-margin-bottom-small">HTML</h3>
+                            <p class="feature-box__text">
+                                I learned the basics of this language and
+                                semantic HTML so it could be clear to see trough
+                                the code.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-4">
+                        <div class="feature-box" id="feature-box-4">
+                            <h3 class="heading-tertiary u-margin-bottom-small">CSS</h3>
+                            <p class="feature-box__text">
+                                The purpuse of CSS is to style HTML codes to be
+                                easy to read for users. I gained a lot of
+                                knowledge from it.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section-favorite" id="section-favorite">
+                <div class="u-center-text u-margin-bottom-big">
+                    <h2 class="heading-secondary">
+                        What I like to code
+                    </h2>
+                </div>
+
+                <div class="row">
+                    <div class="col-1-of-3">
+                        <div class="card">
+                            <div class="card__side card__side--front">
+                                <div class="card__story card__story--1">
+                                    &nbsp;
+                                </div>
+                                <h4 class="card__heading">
+                                    <span
+                                        class="card__heading-span card__heading-span--1">HTML
+                                        & CSS</span>
+                                </h4>
+                                <div class="card__details" id="card-1">
+                                    <ul>
+                                        <li>5+ projects</li>
+                                        <li>2 companies included</li>
+                                        <li>2 years of experience</li>
+                                        <li>Still learning</li>
+                                        <li>Level: intermediate</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div
+                                class="card__side card__side--back card__side--back-1">
+                                <div class="card__cta">
+                                    <div class="card__back-box">
+                                        <p class="card__back-only">learn about</p>
+                                        <p class="card__back-value">HTML & CSS</p>
+                                    </div>
+                                    <a
+                                        href="https://web.dev/learn/css/?gclid=CjwKCAiA8OmdBhAgEiwAShr40zOyjx_L9rcHqJCEQM2DxbXjzEzc0JUwxz62CK5MCdC1YHvpCdfkFxoC-bIQAvD_BwE"
+                                        target="_blank" class="btn btn--white">See
+                                        more!</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-3">
+                        <div class="card">
+                            <div class="card__side card__side--front">
+                                <div class="card__story card__story--2">
+                                    &nbsp;
+                                </div>
+                                <h4 class="card__heading">
+                                    <span
+                                        class="card__heading-span card__heading-span--2">C++</span>
+                                </h4>
+                                <div class="card__details" id="card-2">
+                                    <ul>
+                                        <li>100+ projects</li>
+                                        <li>Mathematical questions</li>
+                                        <li>4 years of experience</li>
+                                        <li>Still learning</li>
+                                        <li>Level: intermediate</li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                            <div
+                                class="card__side card__side--back card__side--back-2">
+                                <div class="card__cta">
+                                    <div class="card__back-box">
+                                        <p class="card__back-only">learn about</p>
+                                        <p class="card__back-value">C++</p>
+                                    </div>
+                                    <a href="https://www.w3schools.com/cpp/"
+                                        target="_blank" class="btn btn--white">See
+                                        more!</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-3">
+                        <div class="card" id="card-1">
+                            <div class="card__side card__side--front">
+                                <div class="card__story card__story--3">
+                                    &nbsp;
+                                </div>
+                                <h4 class="card__heading">
+                                    <span
+                                        class="card__heading-span card__heading-span--3">MYSQL</span>
+                                </h4>
+                                <div class="card__details" id="card-3">
+                                    <ul>
+                                        <li>10+ projects</li>
+                                        <li>Database management</li>
+                                        <li>Half a year experience</li>
+                                        <li>Still learning</li>
+                                        <li>Level: basic</li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                            <div
+                                class="card__side card__side--back card__side--back-3">
+                                <div class="card__cta">
+                                    <div class="card__back-box">
+                                        <p class="card__back-only">learn about</p>
+                                        <p class="card__back-value">MYSQL</p>
+                                    </div>
+                                    <a href="https://www.mysql.com"
+                                        target="_blank" class="btn btn--white">See
+                                        more!</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="u-center-text u-margin-top-huge">
+                    <a href="index2.html" class="btn btn--green">Discover main
+                        languages</a>
+                </div>
+            </section>
+
+            <section class="section-schools" id="section-myschools">
+                <div class="bg-video">
+                    <video class="bg-video__content" autoplay muted loop>
+                        <source src="./img/video.mp4" type="video/mp4">
+                        Your browser is not supported!
+                    </video>
+                </div>
+
+                <div class="u-center-text u-margin-bottom-big">
+                    <h2 class="heading-secondary">
+                        Teachers of mine
+                    </h2>
+                </div>
+
+                <div class="row">
+                    <div class="story" id="story-1">
+                        <figure class="story__shape">
+                            <img src="./img/salamon.jpeg" alt="Building"
+                                class="story__img">
+                            <figcaption class="story__caption">Salamon Ernő</figcaption>
+                        </figure>
+                        <div class="story__text">
+                            <h3 class="heading-tertiary u-margin-bottom-small">Salamon
+                                Ernő Gimnázium</h3>
+                            <p>
+                                My school provided me to learn the basics of
+                                coding languages and it helped me to make a lot
+                                of progress in those. The continuity of learning
+                                got me in the position where I can solve almost
+                                any problems
+                                in some languages.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="story" id="story-2">
+                        <figure class="story__shape">
+                            <img src="./img/ik-epulet.jpeg" alt="My father"
+                                class="story__img__Father">
+                            <figcaption class="story__caption">My university</figcaption>
+                        </figure>
+                        <div class="story__text">
+                            <h3 class="heading-tertiary u-margin-bottom-small">ELTE
+                                IK</h3>
+                            <p>
+                                Teaching informatics at ELTE was initiated in
+                                1969. The courses, offered to students of
+                                mathematics, were called computing techniques.
+                                In 1972 professor Imre Kátay recognized the
+                                growing significance of informatics and
+                                initiated a new curriculum called
+                                programmermathematician. In order to organize
+                                the introduction of the new courses the
+                                Department of Numerical and Computer Mathematics
+                                was established. The number of students was
+                                increasing rapidly, from 60 in 1972 to 400 in
+                                the eighties, and it reached 2000 by the end of
+                                the nineties. The huge department had to be
+                                divided into three specialized ones, which
+                                together created the Institute of Informatics
+                                later on. In 2003 the Institute of Informatics
+                                and the Department of Cartography of the Faculty
+                                of Science established the Faculty of
+                                Informatics.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="u-center-text u-margin-top-huge">
+                    <a href="https://www.inf.elte.hu" target="_blank"
+                        class="btn-text">Read about my University &rarr;</a>
+
+                </div>
+            </section>
+
+            <form action="https://formspree.io/f/meqwkwge" method="POST"
+                class="section-write">
+                <div class="row">
+                    <div class="book">
+                        <div class="book__form">
+                            <form class="form">
+                                <div class="u-margin-bottom-medium">
+                                    <h2 class="heading-secondary">
+                                        Feel free to ask!
+                                    </h2>
+                                </div>
+
+                                <div class="form__group">
+                                    <input id="FullName" type="text"
+                                        class="form__input"
+                                        placeholder="Full name" id="name"
+                                        name="name" required>
+                                    <label id="placeholder-name" for="name"
+                                        class="form__label">Full Name</label>
+                                </div>
+
+                                <div class="form__group">
+                                    <input id="Email" type="email"
+                                        class="form__input"
+                                        placeholder="Email address" id="email"
+                                        name="email" required>
+                                    <label id="placeholder-email" for="email"
+                                        class="form__label">Email Address</label>
+                                </div>
+
+                                <div class="form__group">
+                                    <input id="Message" type="message"
+                                        class="form__input "
+                                        placeholder="Message" id="message"
+                                        name="message" required>
+                                    <label id="placeholder-message"
+                                        for="message" class="form__label">Message</label>
+                                </div>
+
+                                <div class="form__group">
+                                    <button type="submit" class="btn btn--green">Submit
+                                        &rarr;</button>
+                                </div>
+                                <input type="hidden" name="_captcha"
+                                    value="false">
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </form>
+
+        </main>
+
+        <footer class="footer">
+            <div class="footer__logo-box">
+                <i class="fa-solid fa-laptop-code header__logo-box__logo2"></i>
+            </div>
+
+            <div class="row" id="footer_links">
+                <div class="col-1-of-2">
+                    <div class="footer__navigation">
+                        <ul class="footer__list">
+                            <li class="footer__item"><a
+                                    href="https://www.facebook.com/tamas.ferencz.7399"
+                                    target="_blank" class="footer__link">Facebook</a></li>
+                            <li class="footer__item"><a
+                                    href="https://www.instagram.com/ferencztamas_/"
+                                    target="_blank" class="footer__link">Instagram</a></li>
+                            <li class="footer__item"><a
+                                    href="mailto: tamasferencz25@gmail.com"
+                                    class="footer__link">Email</a></li>
+                            <li class="footer__item"><a
+                                    href="https://github.com/tamasferencz12"
+                                    target="_blank" class="footer__link">Github</a></li>
+                            <li class="footer__item"><a
+                                    href="https://codepen.io/tamasferencz12?__cf_chl_captcha_tk__=4cef880d9bb8c9fdc7fe5899f0fd7c9ce9b06c5d-1626381495-0-AW3whcleY7ykyhY_y3EHVsOeawbybJqkMaU_WYz2LR7CYS8ZyyW7cfM4Fxw0n7PnfEmJDuZtNKRC62XX4tuCtg7LE6Y__8SeZ1moTGJZdncpmTVNyj1xRxZ7cmhFntY5FIoZoiqjqCtpJTkouhQj-kUpwC6EYSDNXUWHhvKdtIcCNlMtI8Tp6_aYrMn_3_VVH6rpXlEivEYb8O3cMua4GwzSZ2UaBjRAylbnHuMFIpRd6YZ8rtEIOekBSv2dREOqXQQQ7qEbtPaNWXCQ1PGfgK8IEnUy8klxl1nK4JcpzPa3kOoxbj3g4Uyp89EYmLcWL7oDxyEPIxSO5xNi3Bq99vFmnkS1D52oG4DoKo9ByrwYTrJ_hzOuMAgOWiGA1l5QOvpBrUOVDj4hf45rmIVJkxCG955OiBLzYQ5Y74aT1-0_TM2TtkxlroPBWRY1OOl4PrpddcwhfI8gf1SfrG71XzRZgyLs3JXp28zdDj75dw5KaRLBBjL81absJ4So6gWtmzDv47jUscCFqbW5xPzBdvnhoM9Qqb3zgr32xdNDprCrFkxZzZrLNFvq2YaLuMBs_irzgZm3CqGY_-BJngED_aiUOUTNhvoAWLTfD_ejsPN3yQ6vMZt9CgTsCBN-1Kn4b6lwmxIDDkA4SmD1ewh5eOhDtzucGMd35xUz461n7bhvW2yTwQA26RXc9LaXWhkzlQ"
+                                    target="_blank" class="footer__link">Codpen</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-1-of-2">
+                    <p class="footer__copyright">
+                        Built by <a href="#" class="footer__link">TAMAS FERENCZ</a>
+                        Copyright &copy; by Tamas Ferencz.
+                    </p>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>

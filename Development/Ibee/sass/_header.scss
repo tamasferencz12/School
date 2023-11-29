@@ -1,0 +1,124 @@
+.header {
+  background-color: $color-primary;
+  height: 100vh;
+  position: relative;
+  z-index: 50;
+
+  background-image: linear-gradient(
+      to bottom,
+      rgba($color-primary, 0.8),
+      rgba($color-secondary, 0.8)
+    ),
+    url(../img/business.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+
+  &__text-box {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-45%, -45%);
+    text-align: center;
+
+    @media only screen and (max-width: $bp-largest) {
+      transform: translate(-50%, -90%);
+    }
+  }
+
+  .heading-primary {
+    color: $color-grey-light-1;
+    text-transform: uppercase;
+    animation-timing-function: ease-out;
+
+    &--main {
+      display: block;
+      font-size: 6rem;
+      font-weight: 600;
+      letter-spacing: 3.5rem;
+      animation: moveInLeft 1s;
+
+      @media only screen and (max-width: $bp-small) {
+        letter-spacing: 1.5rem;
+        font-size: 4rem;
+      }
+    }
+    &--sub {
+      display: block;
+      font-size: 2rem;
+      font-weight: 700;
+      letter-spacing: 1.7rem;
+      animation: moveInRight 1s;
+      margin-bottom: 6rem;
+
+      @media only screen and (max-width: $bp-small) {
+        letter-spacing: 1.5rem;
+        font-size: 2rem;
+      }
+    }
+  }
+}
+
+.btn {
+  animation: moveInBottom 1s;
+  box-shadow: rgba(0, 0, 0, 0.6);
+}
+
+.btn,
+.btn:visited {
+  border: 1px solid $color-grey-light-1;
+  box-shadow: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 2rem;
+  line-height: 3.5rem;
+  min-width: 2rem;
+  padding: 0.6em 1em;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.15s ease-in-out;
+  color: $color-grey-light-1;
+  background-color: 0 0;
+  border-radius: 1rem;
+}
+
+.btn-2,
+.btn-2:visited {
+  border: 1px solid $color-primary;
+  box-shadow: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 2rem;
+  line-height: 3.5rem;
+  min-width: 2rem;
+  padding: 0.6em 1em;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.15s ease-in-out;
+  color: $color-primary;
+  background-color: 0 0;
+  border-radius: 1rem;
+}
+
+.btn:focus,
+.btn:hover {
+  color: $color-gradient-blue;
+  background: $color-grey-light-1;
+  border-color: $color-grey-light-1;
+  text-decoration: none;
+  border-radius: 1rem;
+}
+
+.btn-2:focus,
+.btn-2:hover {
+  color: $color-grey-light-1;
+  background: $color-primary;
+  border-color: none;
+  text-decoration: none;
+  border-radius: 1rem;
+}
+
+.fa-bars {
+  height: 3rem;
+  width: 3rem;
+}

@@ -1,0 +1,53 @@
+.btn-c {
+  padding: 0 1vw 0 1vw;
+  margin: 0 2vw 0 2vw;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 5px;
+  padding: 10px 25px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  background: transparent;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+}
+
+.btn-nav {
+  width: fit-content;
+  height: fit-content;
+  line-height: 42px;
+  padding: 0.5rem;
+  border: none;
+  color: #307987;
+}
+.btn-nav:hover {
+  color: #307987;
+  background: transparent;
+}
+.btn-nav:before,
+.btn-nav:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 2px;
+  width: 0;
+  background: #307987;
+  transition: 0.4s ease all;
+}
+.btn-nav:after {
+  right: inherit;
+  top: inherit;
+  left: 0;
+  bottom: 0;
+}
+.btn-nav:hover:before,
+.btn-nav:hover:after {
+  width: 100%;
+  transition: 0.8s ease all;
+}

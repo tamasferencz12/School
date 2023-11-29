@@ -1,0 +1,275 @@
+.csapat{
+    padding-top: 18vh;
+    background-image: linear-gradient(to bottom, #FFC837 10%, #FF8008);
+    height: auto;
+    justify-content: center;
+
+    @media only screen and (max-width: 1350px){
+        padding-top: 0vh;
+    }
+}
+
+.menu-icon{
+    @media only screen and (min-width: 1350px){
+        display: none;
+    }
+}
+
+.menu-icon{
+    cursor: pointer;
+    color: black;
+    border: 4px solid black;
+    border-radius: 20%;
+    margin: 4rem;
+    height: 4rem;
+    width: auto;
+    padding: 1rem;
+}
+
+.csapat-img:hover{
+    transform: scale(1.25);
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.csapat-text-align{
+    text-align: center;
+}
+
+.flexbox-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.csapat-boss{
+    display: flex;
+    width: 60rem;
+
+    @media only screen and (min-width: 2550px){
+        width: 70%;
+    }
+
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 12rem;
+
+    @media only screen and (max-width: 1350px){
+        padding-top: 6rem;
+    }
+}
+.csapat-boss-text{
+    padding: .5rem 0 0 1rem;
+    font-size: 1.5rem;
+    @media only screen and (min-width: 2550px){
+        padding-top: 2rem;
+        font-size: 3rem;
+    }
+    @media only screen and (max-width: 1350px){
+        margin-left: 1.8rem;
+    }
+}
+
+.mozes{
+    font-size: 1rem;
+    @media only screen and (min-width: 2550px){
+        font-size: 2.5rem;
+    }
+    margin-left: 1.5rem;
+    font-style: italic;
+}
+
+.csapat-boss-name{
+    font-size: 2.5rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    height: 3rem;
+    @media only screen and (min-width: 2550px){
+        font-size: 4rem;
+    }
+}
+
+.img-boss{
+    height: 10rem;
+    width: auto;
+    border: 5px solid black;
+    border-radius: 50%;
+    @media only screen and (min-width: 2550px){
+        height: 15rem;
+        width: auto;
+        border: 10px solid black;
+    }
+}
+
+.csapat-boss-animation{
+    animation: MoveInRight 2s;
+}
+
+.csapat-last-element{
+    display: flex;
+    height: fit-content ;
+    background-image: linear-gradient(to bottom,#FF8008 30%, #FFC837);
+}
+
+.csapat-title{
+    font-style: oblique;
+    font-size: 2rem;
+    @media only screen and (min-width: 2550px){
+        font-size: 5rem;
+    }
+    font-family: Arial, Helvetica, sans-serif;
+    justify-self: end;
+    padding: 3rem 0 3rem 0;
+}
+
+.imgX3{
+    display: flex;
+    flex-direction: column;
+    animation: MoveInLeft 2s;
+}
+
+.imgX3-img{
+    height: auto;
+    width: 25rem;
+    border: 3px solid black;
+    border-radius: 2rem;
+    margin: 0 0 5px 8rem;
+
+    @media only screen and (min-width: 1100px){
+        height: auto;
+        width: 25rem;
+    }
+
+    @media only screen and (min-width: 2550px){
+        height: auto;
+        width: 50rem;
+    }
+    
+    height: 10rem;
+    width: auto;
+    border: 5px solid black;
+}
+
+.img1{
+    z-index: 2;
+    transition: all .2s;
+}
+
+.img2{
+    z-index: 3;
+    transition: all .2s;
+}
+
+.img3{
+    z-index: 4;
+    transition: all .2s;
+}
+
+.img1:hover{
+    transform: scale(1.2);
+    z-index: 5;
+    transform-origin: top left;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.img2:hover{
+    transform: scale(1.2);
+    z-index: 5;
+    transform-origin: left;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.img3:hover{
+    transform: scale(1.2);
+    z-index: 5;
+    transform-origin: bottom left;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.last-element-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 7rem 0 0 10rem;
+    font-size: 1.5rem;
+    width: 50vw;
+    text-align: center;
+    animation: MoveInLeft 2s;
+
+    @media only screen and (min-width: 2550px){
+        font-size: 3rem;
+    }
+
+    @media only screen and (max-width: 1350px){
+        padding:.5rem  2rem;
+        font-size: 1.8rem;
+    }
+}
+
+@keyframes MoveInLeft{
+    0% {
+        opacity: 0;
+        transform: translateX(-200rem);
+      }
+    
+      80% {
+        opacity: 1;
+        transform: translateX(2rem);
+      }
+    
+      100% {
+        opacity: 1;
+        transform: translate(0);
+      }
+}
+
+@keyframes MoveInRight{
+    0% {
+        opacity: 0;
+        transform: translateX(200rem);
+      }
+    
+      80% {
+        opacity: 1;
+        transform: translateX(-2rem);
+      }
+    
+      100% {
+        opacity: 1;
+        transform: translate(0);
+      }
+}
+
+.certificate {
+    height: 10rem;
+    width: 15rem;
+    @media only screen and (min-width: 2550px){
+        height: 25rem;
+        width: auto;
+        margin-top: 5rem;
+    }
+    border: 3px solid black;
+    border-radius: 2rem;
+    margin-top: 1.2rem;
+}
+
+.certificate:hover{
+    transform: scale(1.6);
+    z-index: 5;
+    transform-origin: top;
+    border: 1px solid black;
+    cursor: pointer;
+    transition: all .2s;
+    @media only screen and (max-width: 1350px){
+        transform-origin: bottom;
+    }
+
+    @media only screen and (min-width: 2550px){
+        transform: scale(1.4);
+    }
+}
+
+.certificate{
+    transition: all .2s;
+}

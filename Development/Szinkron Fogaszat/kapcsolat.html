@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="shortcut icon" type="image/png"
+            href="img/favicon_io SZiNKRON/favicon-32x32.png">
+        <link
+            href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap"
+            rel="stylesheet">
+        <script src="https://kit.fontawesome.com/ee793b0948.js"
+            crossorigin="anonymous"></script>
+        <script defer
+            src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
+
+        <title> Szinkron Fogászat</title>
+    </head>
+
+    <body id="body">
+        <nav class="nav-bar">
+            <img src="img/SZINKRON logo.png" class="nav-bar-logo" alt="logo">
+            <ul class="nav-bar-elements">
+                <a href="index.html" class="btn-c btn-nav">Nyitólap</a>
+                <a href="szolgaltatasok.html" class="btn-c btn-nav">Szolgáltatások</a>
+                <a href="galeria.html" class="btn-c btn-nav">Galéria</a>
+                <a href="kapcsolat.html" class="btn-c btn-nav">Kapcsolat</a>
+            </ul>
+        </nav>
+        <div class="navigation">
+            <input type="checkbox" class="navigation__checkbox" id="navi-toggle">
+
+            <label for="navi-toggle" class="navigation__button" id="navigation">
+                <span class="navigation__icon" id="navi-icon">&nbsp;</span>
+            </label>
+
+            <div class="navigation__background">&nbsp;</div>
+
+            <nav class="navigation__nav">
+                <ul class="navigation__list">
+                    <li class="navigation__item"><a id="nav-1"
+                            onclick="document.getElementById('navi-toggle').click()"
+                            href="index.html" class="navigation__link">Nyitólap</a></li>
+                    <li class="navigation__item"><a id="nav-2"
+                            onclick="document.getElementById('navi-toggle').click()"
+                            href="szolgaltatasok.html" class="navigation__link">Szolgáltatások</a></li>
+                    <li class="navigation__item"><a id="nav-3"
+                            onclick="document.getElementById('navi-toggle').click()"
+                            href="galeria.html" class="navigation__link">Galéria</a></li>
+                    <li class="navigation__item"><a id="nav-4"
+                            onclick="document.getElementById('navi-toggle').click()"
+                            href="kapcsolat.html" class="navigation__link">Kapcsolat</a></li>
+                </ul>
+            </nav>
+        </div>
+        <form action="https://formspree.io/f/meqwkwge" method="POST"
+            class="section-write">
+            <div class="row">
+                <div class="write">
+                    <div class="write__form">
+                        <form class="form">
+                            <h2 class="heading">
+                                Írjon nekünk!
+                            </h2>
+
+                            <div class="form__group">
+                                <input id="FullName" type="text"
+                                    class="form__input" placeholder="Teljes Név"
+                                    id="name" name="name" required>
+                                <label id="placeholder-name" for="name"
+                                    class="form__label">Teljes Név</label>
+                            </div>
+
+                            <div class="form__group">
+                                <input id="Email" type="email"
+                                    class="form__input" placeholder="Email Cím"
+                                    id="email" name="email" required>
+                                <label id="placeholder-email" for="email"
+                                    class="form__label">Email Cím</label>
+                            </div>
+
+                            <div class="form__group">
+                                <input id="Message" type="message"
+                                    class="form__input " placeholder="Üzenet"
+                                    id="message" name="message" required>
+                                <label id="placeholder-message" for="message"
+                                    class="form__label">Üzenet</label>
+                            </div>
+
+                            <div class="form__group">
+                                <button type="submit" class="btn-c btn-nav">
+                                    Küldés &rarr;</button>
+                            </div>
+                            <input type="hidden" name="_captcha" value="false">
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+        </form>
+
+        <div class="maps">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2735.0449372104335!2d25.601048276093195!3d46.72457517112247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x474aedd3382e2f35%3A0x1c955344e08c5cce!2sSzinkron%20Fog%C3%A1szat!5e0!3m2!1shu!2sro!4v1691416378741!5m2!1shu!2sro"
+                width="100%" height="100%" style="border:0;" allowfullscreen
+                loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+
+        <footer class="contact" id="contact">
+            <div class="contact-click">Kattintson ránk!</div>
+            <div class="contact-icons">
+                <a href="https://www.facebook.com"
+                    class="icons fa-brands fa-facebook-square">
+                </a>
+                <a href="https://wa.me/+40745632762"><i
+                        class="icons fab fa-whatsapp-square"></i></a>
+
+                <a href="tel:+40745632762"><i
+                        class="icons fas fa-phone-square-alt"></i></a>
+            </div>
+            <div class="contact-text">
+                <div class="text-format">Facebook &#183 WhatsApp &#183
+                    Telefonszám</div>
+                <div class="text-format">Terms of Use &#183 Privacy Policy
+                </div>
+                <div class="text-format-copyright"> © 2023 Szinkron Fogászat
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>

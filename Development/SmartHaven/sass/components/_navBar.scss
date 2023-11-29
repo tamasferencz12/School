@@ -1,0 +1,42 @@
+.nav-bar {
+  &__container {
+    height: 15vh;
+    z-index: 1000;
+    width: 100vw;
+    position: fixed;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &__el {
+      font-size: 1.5vw;
+      margin: 2vw;
+      text-decoration: none;
+      list-style: none;
+      color: $color-grey-dark-3;
+      scale: 1;
+      transition: all 0.3s ease-in-out;
+
+      &:hover {
+        color: $color-primary-dark;
+        cursor: pointer;
+        transition: all 0.3s ease-in-out;
+        transform: scale(1.1);
+      }
+    }
+  }
+
+  &__logo{
+    margin-left: 8vh;
+    height: 8vh;
+    width: auto;
+    filter: invert(100%);
+  }
+}

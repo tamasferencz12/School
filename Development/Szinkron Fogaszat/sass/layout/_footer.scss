@@ -1,0 +1,55 @@
+.contact-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 12vh;
+  background-color: white;
+}
+
+.icons {
+  padding: 1rem;
+  font-size: 6vh;
+  text-decoration: none;
+  cursor: pointer;
+  color: #307987;
+  transition: all 0.2s;
+
+  &:hover {
+    scale: 1.5;
+  }
+}
+
+.contact-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: 12vh;
+  background-color: white;
+  color: #307987;
+  font-size: $default-font-size;
+  padding-bottom: 2vh;
+}
+
+.text-format {
+  padding-bottom: 1vh;
+}
+
+.text-format-copyright {
+  color: #307987;
+  font-size: 1.2rem;
+}
+
+.contact-click {
+  background-color: white;
+  color: #307987;
+  font-size: 3.3vh;
+  padding-top: 2vh;
+  text-align: center;
+}
+
+.indicators {
+  font-size: $default-font-size;
+  display: block;
+  justify-content: space-between;
+}

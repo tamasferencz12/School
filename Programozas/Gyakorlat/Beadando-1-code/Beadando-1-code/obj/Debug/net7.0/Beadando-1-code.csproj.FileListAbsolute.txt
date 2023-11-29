@@ -1,0 +1,15 @@
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/bin/Debug/net7.0/Beadando-1-code
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/bin/Debug/net7.0/Beadando-1-code.deps.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/bin/Debug/net7.0/Beadando-1-code.runtimeconfig.json
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/bin/Debug/net7.0/Beadando-1-code.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/bin/Debug/net7.0/Beadando-1-code.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/obj/Debug/net7.0/Beadando-1-code.csproj.AssemblyReference.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/obj/Debug/net7.0/Beadando-1-code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/obj/Debug/net7.0/Beadando-1-code.AssemblyInfoInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/obj/Debug/net7.0/Beadando-1-code.AssemblyInfo.cs
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/obj/Debug/net7.0/Beadando-1-code.csproj.CoreCompileInputs.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/obj/Debug/net7.0/Beadando-1-code.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/obj/Debug/net7.0/refint/Beadando-1-code.dll
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/obj/Debug/net7.0/Beadando-1-code.pdb
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/obj/Debug/net7.0/Beadando-1-code.genruntimeconfig.cache
+/Users/tamas/Desktop/Programozas/Gyakorlat/Beadando-1-code/Beadando-1-code/obj/Debug/net7.0/ref/Beadando-1-code.dll

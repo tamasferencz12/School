@@ -1,0 +1,79 @@
+.about-ibee {
+  background-color: white;
+  padding-top: 20vh;
+  margin-top: -20vh;
+  position: relative;
+  z-index: 49;
+  display: flex;
+
+  @media only screen and (max-width: $bp-large-2) {
+    flex-direction: column;
+  }
+
+  .photo-1 {
+    width: 100%;
+    height: auto;
+  }
+
+  &__picture {
+    display: flex;
+    align-self: center;
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+
+    @media only screen and (max-width: $bp-medium) {
+      transform: translateY(3rem);
+    }
+  }
+
+  &__tl__title {
+    font-size: 4rem;
+    color: $color-secondary;
+    margin-bottom: 2rem;
+  }
+
+  &__tl {
+    letter-spacing: 0;
+    margin-right: 3rem;
+    margin-left: 3rem;
+    display: flex;
+    flex-direction: column;
+    height: 50rem;
+    justify-content: center;
+
+    @media only screen and (min-width: $bp-max) {
+      padding-right: 10%;
+      padding-left: 5%;
+    }
+
+    &__text-1 {
+      color: $color-primary;
+      margin-bottom: 1rem;
+      font-weight: 600;
+
+      font-size: 2rem;
+    }
+
+    &__text-2 {
+      color: $color-grey-dark-1;
+      margin-bottom: 5rem;
+
+      font-size: 1.7rem;
+    }
+  }
+  .about-ibee__tl__btn {
+    align-self: center;
+    font-size: 2.5rem;
+  }
+}
+
+hr {
+  display: block;
+  height: 1rem;
+  border: 0;
+  border-top: 0.1rem solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+  transform: translateY(-80rem);
+}

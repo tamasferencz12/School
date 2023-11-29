@@ -1,0 +1,35 @@
+.nav-bar {
+  display: flex;
+  position: fixed;
+  justify-content: space-between;
+  height: 15vh;
+  width: 100vw;
+  background-color: white;
+  z-index: 10000;
+
+  @media only screen and (max-width: 56.25em) {
+    background-color: transparent;
+    z-index: 0;
+    height: 0;
+  }
+}
+
+.nav-bar-logo {
+  height: 10vh;
+  width: auto;
+  padding-left: 5vw;
+  align-self: center;
+
+  @media only screen and (max-width: 56.25em) {
+    display: none;
+  }
+}
+
+.nav-bar-elements {
+  display: flex;
+  justify-content: flex-end;
+  align-self: center;
+  @media only screen and (max-width: 56.25em) {
+    display: none;
+  }
+}
