@@ -7,9 +7,7 @@ public class MyProgram
         int n;
         int j = 0;
         bool isItGood = true;
-        Console.WriteLine("Adjon meg egy szamot: ");
         n = int.Parse(Console.ReadLine());
-        Console.WriteLine("-------------------------------");
 
         string[] name = new string[n];
         int[] height = new int[n];

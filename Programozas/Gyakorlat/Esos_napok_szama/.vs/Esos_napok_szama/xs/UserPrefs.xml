@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{572858DD-9D87-42D8-9BFE-CA1D1CC681B2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esos_napok_szama/Program.cs">
+    <Files>
+      <File FileName="Esos_napok_szama/Program.cs" Line="12" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esos_napok_szama" expanded="True">
+            <Node name="Esos_napok_szama" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Esos__napok__szama PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

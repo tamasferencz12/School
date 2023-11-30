@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tamas/School/Programozas/Gyakorlat/nevsorbanNovekvoMagassag/nevsorbanNovekvoMagassag/nevsorbanNovekvoMagassag.csproj": {}
+    "/Users/tamas/School/Programozas/Gyakorlat/Leghidegebb_homerseklet_a_Balatonon/Leghidegebb_homerseklet_a_Balatonon/Leghidegebb_homerseklet_a_Balatonon.csproj": {}
   },
   "projects": {
-    "/Users/tamas/School/Programozas/Gyakorlat/nevsorbanNovekvoMagassag/nevsorbanNovekvoMagassag/nevsorbanNovekvoMagassag.csproj": {
+    "/Users/tamas/School/Programozas/Gyakorlat/Leghidegebb_homerseklet_a_Balatonon/Leghidegebb_homerseklet_a_Balatonon/Leghidegebb_homerseklet_a_Balatonon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tamas/School/Programozas/Gyakorlat/nevsorbanNovekvoMagassag/nevsorbanNovekvoMagassag/nevsorbanNovekvoMagassag.csproj",
-        "projectName": "nevsorbanNovekvoMagassag",
-        "projectPath": "/Users/tamas/School/Programozas/Gyakorlat/nevsorbanNovekvoMagassag/nevsorbanNovekvoMagassag/nevsorbanNovekvoMagassag.csproj",
+        "projectUniqueName": "/Users/tamas/School/Programozas/Gyakorlat/Leghidegebb_homerseklet_a_Balatonon/Leghidegebb_homerseklet_a_Balatonon/Leghidegebb_homerseklet_a_Balatonon.csproj",
+        "projectName": "Leghidegebb_homerseklet_a_Balatonon",
+        "projectPath": "/Users/tamas/School/Programozas/Gyakorlat/Leghidegebb_homerseklet_a_Balatonon/Leghidegebb_homerseklet_a_Balatonon/Leghidegebb_homerseklet_a_Balatonon.csproj",
         "packagesPath": "/Users/tamas/.nuget/packages/",
-        "outputPath": "/Users/tamas/School/Programozas/Gyakorlat/nevsorbanNovekvoMagassag/nevsorbanNovekvoMagassag/obj/",
+        "outputPath": "/Users/tamas/School/Programozas/Gyakorlat/Leghidegebb_homerseklet_a_Balatonon/Leghidegebb_homerseklet_a_Balatonon/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tamas/.nuget/NuGet/NuGet.Config"

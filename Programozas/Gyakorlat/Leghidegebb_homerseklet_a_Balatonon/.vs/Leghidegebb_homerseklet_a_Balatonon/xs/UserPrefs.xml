@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E14A25EC-BF70-435B-8D38-B88A6C017E41}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Leghidegebb_homerseklet_a_Balatonon/Program.cs">
+    <Files>
+      <File FileName="Leghidegebb_homerseklet_a_Balatonon/Program.cs" Line="25" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Leghidegebb_homerseklet_a_Balatonon" expanded="True">
+            <Node name="Leghidegebb_homerseklet_a_Balatonon" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Leghidegebb__homerseklet__a__Balatonon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
