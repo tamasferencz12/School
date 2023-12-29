@@ -50,6 +50,4 @@ time h m
 
 data USTime = AM Int Int | PM Int Int
   deriving (Show, Eq)
-
-foo (AM h m) = undefined
-foo (PM h m) = undefined
+  

@@ -1,0 +1,15 @@
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/bin/Debug/net7.0/A_t_l_f_m_n
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/bin/Debug/net7.0/A_t_l_f_m_n.deps.json
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/bin/Debug/net7.0/A_t_l_f_m_n.runtimeconfig.json
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/bin/Debug/net7.0/A_t_l_f_m_n.dll
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/bin/Debug/net7.0/A_t_l_f_m_n.pdb
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/obj/Debug/net7.0/A_t_l_f_m_n.csproj.AssemblyReference.cache
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/obj/Debug/net7.0/A_t_l_f_m_n.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/obj/Debug/net7.0/A_t_l_f_m_n.AssemblyInfoInputs.cache
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/obj/Debug/net7.0/A_t_l_f_m_n.AssemblyInfo.cs
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/obj/Debug/net7.0/A_t_l_f_m_n.csproj.CoreCompileInputs.cache
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/obj/Debug/net7.0/A_t_l_f_m_n.dll
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/obj/Debug/net7.0/refint/A_t_l_f_m_n.dll
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/obj/Debug/net7.0/A_t_l_f_m_n.pdb
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/obj/Debug/net7.0/A_t_l_f_m_n.genruntimeconfig.cache
+/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/obj/Debug/net7.0/ref/A_t_l_f_m_n.dll

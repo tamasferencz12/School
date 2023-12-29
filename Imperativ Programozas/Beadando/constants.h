@@ -1,0 +1,13 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define DIRECTION_CW "URDL"
+#define DIRECTION_CCW "DRUL"
+#define DIRECTION_CW_TYPE 0
+#define DIRECTION_CCW_TYPE 1
+#define DIRECTION_UP 'U'
+#define DIRECTION_DOWN 'D'
+#define DIRECTION_LEFT 'L'
+#define DIRECTION_RIGHT 'R'
+
+#endif // CONSTANTS_H
