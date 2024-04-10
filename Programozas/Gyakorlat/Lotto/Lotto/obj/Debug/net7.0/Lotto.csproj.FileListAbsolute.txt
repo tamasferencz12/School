@@ -1,0 +1,15 @@
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/bin/Debug/net7.0/Lotto
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/bin/Debug/net7.0/Lotto.deps.json
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/bin/Debug/net7.0/Lotto.runtimeconfig.json
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/bin/Debug/net7.0/Lotto.dll
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/bin/Debug/net7.0/Lotto.pdb
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/obj/Debug/net7.0/Lotto.csproj.AssemblyReference.cache
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/obj/Debug/net7.0/Lotto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/obj/Debug/net7.0/Lotto.AssemblyInfoInputs.cache
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/obj/Debug/net7.0/Lotto.AssemblyInfo.cs
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/obj/Debug/net7.0/Lotto.csproj.CoreCompileInputs.cache
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/obj/Debug/net7.0/Lotto.dll
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/obj/Debug/net7.0/refint/Lotto.dll
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/obj/Debug/net7.0/Lotto.pdb
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/obj/Debug/net7.0/Lotto.genruntimeconfig.cache
+/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/obj/Debug/net7.0/ref/Lotto.dll

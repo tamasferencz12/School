@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/A_t_l_f_m_n.csproj",
-      "projectName": "A_t_l_f_m_n",
-      "projectPath": "/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/A_t_l_f_m_n.csproj",
+      "projectUniqueName": "/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/Lotto.csproj",
+      "projectName": "Lotto",
+      "projectPath": "/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/Lotto.csproj",
       "packagesPath": "/Users/tamas/.nuget/packages/",
-      "outputPath": "/Users/tamas/School/Beadandok/Programozas/Beadando3/A_t_l_f_m_n/A_t_l_f_m_n/obj/",
+      "outputPath": "/Users/tamas/School/Programozas/Gyakorlat/Lotto/Lotto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tamas/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
       }
     }
   }

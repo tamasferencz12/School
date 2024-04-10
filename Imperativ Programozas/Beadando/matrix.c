@@ -200,7 +200,7 @@ int printMatrix(int **matrix, int n)
     {
         for (int j = 0; j < n; j++)
         {
-            printf("%2d  ", matrix[i][j]);
+            printf("%4d  ", matrix[i][j]);
         }
         printf("\n");
     }

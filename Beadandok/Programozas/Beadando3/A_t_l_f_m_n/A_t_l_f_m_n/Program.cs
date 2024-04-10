@@ -1,84 +1,66 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 
-public class MyProgram
+class Program
 {
-
-    public static void Main(string[] args)
+    static void Main()
     {
-        // Ferencz Tamás, G0820E, tamasferencz25@gmail.com
+        int N; // Number of locations
+        int M; // Number of days
 
-        /*
-                A meteorológiai intézet az ország N településére adott M napos időjárás előrejelzést, az adott te-
-            lepülésen az adott napra várt legmagasabb hőmérsékletet.
-            Készíts programot, amely megadja azokat a napokat, amikor legalább a települések felében mele-
-            gedés várható az előző naphoz képest!
-                Bemenet
-            A standard bemenet első sorában a települések száma (1≤N≤1000) és a napok száma
-            (1≤M≤1000) van. Az ezt követő N sorban az egyes napokra jósolt M hőmérséklet értéke találha-
-            tó (-50≤Hi,j≤50).
-                Kimenet
-            A standard kimenet első sorába azon napok K számát kell kiírni, amikor legalább a telepü-
-            lések felében melegedés várható az előző naphoz képest! Ezt kövesse ezen napok sorszáma, nö-
-            vekvő sorrendben.
-                Példa
-
-                Bemenet              Kimenet
-                3 5                   2 2 5
-                10 15 12 10 10
-                11 11 11 11 20
-                12 16 16 16 20
-
-        3 5
-10 15 12 10 10
-11 11 11 11 20
-12 16 16 16 20
-        */
-
-        // DEKLARACIO
-        int N; // 1 <= N <= 1000
-        int M; // 1 <= M <= 1000
-        int i, j;
-        List<int> K = new List<int>();
-        List<int> ind = new List<int>();
-
-        // BEOLVASAS
+        // Input
         string str = Console.ReadLine();
         N = Convert.ToInt32(str.Split(' ')[0]);
         M = Convert.ToInt32(str.Split(' ')[1]);
 
         int[,] Hi = new int[N, M];
 
-        //Feltoltes
-
-        for (i = 0; i < N; i++)
+        // Filling the temperature data
+        for (int i = 0; i < N; i++)
         {
             string[] rowValues = Console.ReadLine().Split(' ');
-            for (j = 0; j < M; j++)
+            for (int j = 0; j < M; j++)
             {
-                Hi[i, j] = int.Parse(rowValues[j]);
+                 Hi[i, j] = int.Parse(s: rowValues[j]);
             }
         }
 
-        //Feldolgozas
+        float threshold = (float)N/2;
 
-        for (j = 0; j < M - 1; j++)
+        // Find days with at least half of the locations showing an increase
+        List<int> napok = new List<int>();
+        for (int j = 0; j < M - 1; j++)
         {
-            int db = 0;
-            for (i = 0; i < N; i++)
+            int count = 0;
+            for (int i = 0; i < N; i++)
             {
                 if (Hi[i, j] < Hi[i, j + 1])
                 {
-                    db++;
+                    count++;
                 }
             }
+
+            int e = 0;
+            while (e<=N && !(count < threshold))
+            {
+                e++;
+            }
+            bool van = (e <= N);
+
+            if (!van)
+            {
+                napok.Add(j+2);
+            }
         }
+        int K = napok.Count;
 
-        
+        // Output
+        Console.Write(K);
 
-        // KIIRATAS
-        Console.Write("{0} ", K.Count);
-        K.ForEach(i => Console.Write("{0} ", i));
+        // Output the days with temperature increase
+        for (int i = 0; i < napok.Count; i++)
+        {
+            Console.Write($" {napok[i]}");
+        }
     }
 }

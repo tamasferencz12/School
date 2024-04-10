@@ -1,15 +1,13 @@
 ﻿<Properties StartupConfiguration="{61FC6798-E2F3-41F6-8E6F-FEA513FD3BAC}|Default">
-  <MonoDevelop.Ide.ItemProperties.Komplex__F__1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Komplex_F_1/Program.cs">
     <Files>
-      <File FileName="Komplex_F_1/Program.cs" Line="71" Column="38" />
+      <File FileName="Komplex_F_1/Program.cs" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Komplex_F_1" expanded="True">
-            <Node name="Komplex_F_1">
+          <Node name="Komplex_F_1">
+            <Node name="Komplex_F_1" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,9 +15,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Komplex__F__1 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
 </Properties>

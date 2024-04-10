@@ -2,6 +2,7 @@
 #define SHARED_H
 
 #define BUFFER 21
+#define GROW 3
 
 
 
